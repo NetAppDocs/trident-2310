@@ -56,7 +56,6 @@ To use Astra Trident, you need one or more of the following supported backends:
 * Cloud Volumes Service for GCP
 * FAS/AFF/Select 9.5 or later
 * NetApp All SAN Array (ASA)
-* On-premises FAS, AFF, or ASA r2 (iSCSI, NVMe/TCP, and FC) running ONTAP versions under NetApp full or limited support. See link:https://mysupport.netapp.com/site/info/version-support[Software Version Support].
 * NetApp HCI/Element software 11 or above
 
 == Feature requirements
