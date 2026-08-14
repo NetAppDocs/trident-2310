@@ -103,7 +103,7 @@ NOTE: If the cluster is upgraded to an unsupported version, the operator prevent
 .*Kubernetes cluster management using BlueXP (formerly Cloud Manager)*
 [%collapsible]
 ====
-With link:Astra Trident using NetApp Console, you can upgrade to the latest version of Astra Trident, add and manage storage classes and connect them to Working Environments, and back up persistent volumes using Cloud Backup Service. BlueXP supports Astra Trident deployment using the Trident operator, either manually or using Helm. 
+With Astra Trident using NetApp Console, you can upgrade to the latest version of Astra Trident, add and manage storage classes and connect them to Working Environments, and back up persistent volumes using Cloud Backup Service. BlueXP supports Astra Trident deployment using the Trident operator, either manually or using Helm. 
 ====
 
 === Using `tridentctl`
